@@ -13,4 +13,5 @@ https://github.com/aujinen/2D-Haar-Wavelet/blob/main/1222-1441-snow-2_1024x1024.
 下記のサンプル画像はExcelシートでの演習リポジトリ<br>
 https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB<br>
 にても扱っています。<br>
-<img width="417" height="413" alt="image" src="https://github.com/user-attachments/assets/ad59031e-5bcb-4edd-9e3f-727571c3ee91" /><br>
+<img width="417" height="413" alt="image" src="https://github.com/user-attachments/assets/7888129d-fd63-4328-8d09-5a69fbe869dc" />
+<br>
